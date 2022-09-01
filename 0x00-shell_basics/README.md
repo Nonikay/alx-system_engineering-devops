@@ -1,1 +1,1 @@
-Write a script that lists all files in the current directory and the parent of the working directory and the /boot directory, in long format
+a script to list all files in all directories including /boot
