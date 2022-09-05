@@ -1,1 +1,1 @@
-a script that displays all users and their home directories, sorted by users
+a script that prints “Hello, World”, followed by a new line to the standard output
